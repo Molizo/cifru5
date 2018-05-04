@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523614804 source:c:\users\mihneavisoiu\desktop\cifru5\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
